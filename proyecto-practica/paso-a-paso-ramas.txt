@@ -1,0 +1,13 @@
+
+creación de nuevas ramas:
+
+1: git checkout -b: de esta manera creamos la nueva rama (después de la b se pone el nombre de la nueva rama) 
+   si nos fijamos ak final de donde esta la dirección de nuestra carpeta debe aparecer un cambio ya no sale (main) ahora debe salir el nombre de la rama creada.
+2 git status: con esto confirmamos en donde estamos trabajando : (Branch + nombre de la rama) y los cambios hechos mientras trabajamos en esta 
+3: git add : ya sea todo usando el punto o el nombre de un archivo en concreto. 
+   debemos tomar en cuenta y fijarnos que el contenido de la carpeta cambia dependiendo en que rama estemos trabajando (no asustarse si no aparece un archivo que teníamos o que creamos en          otra rama).
+4: git status : nos va  amostrar los cambios de color verde si se han agregado correctamente. ( recuerden que tendremos los archivos separados dependiendo en que rama trabajemos)
+5: git commit -m: hacemos el comentario antes de subir nuestro repositorio.
+6 git status: chekamos una vez mas de que todo este en orden. ( nos debe sugerir usar el comando git push)
+7: hace git push.
+
