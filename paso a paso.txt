@@ -1,0 +1,43 @@
+git hub 
+
+comandos:
+
+git clone (url): nos ayuda a clonar el repositorio 
+
+git Branch -b (nombre de la nueva rama) : sirve para crear una nueva rama 
+
+gti status : (nos sirve para chekar sobre los estados o movimientos que se han tenido) 
+
+git add . (nos sirve para subir o agregar todos los archivos dentro del repositorio)
+git add (nombre del archivo) : solo nos agrega el archivo seleccionado
+
+git commit -m : nos ayuda a crear un comentario para nuestro repositorio 
+
+git push : con este lanzamos o subimos nuestros repositorios 
+
+git pull: nos ayuda a descargar los repositorios o actualizaciones que han hecho 
+
+
+git marge : nos ayuda a unir las ramos y juntar los trabjamos o actualizaciones hechos ( de los demas compañeros )
+
+git branch -D (nombre de la rama) : nos ayuda a eliminar la rama especificada
+
+git checkout (nombre de la rama ): nos aydua a cambiar de rama 
+
+
+
+
+1: git clone git@github.com:diiegodm/upgrade-hub.git
+2: guardar los archivos en la carpeta
+3: fijarnos al clonar la carpeta si estamos dentro de la capeta del repositporio o no:
+   en caso de que no: usamos el comando (ls) para fijar el nombre de la carpeta y después ingresamos
+   usando el comando (cd nombre de la carpeta).
+4: git status para ver las actualizaciones.
+   aparecerá en rojo los archivos o los cambios que no se han guardado.
+5: git add (podemos usar . o el nombre del archivo a subir. 
+6: git status para ver las actualizaciones. 
+   una vez hecho esto te va  salir las actualizaciones en color verde.
+7: git commit -m "" : dentro de ls comillas se hará el comentario sobre el archivo.
+
+
+
