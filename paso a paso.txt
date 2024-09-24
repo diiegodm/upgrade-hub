@@ -37,7 +37,9 @@ git checkout (nombre de la rama ): nos aydua a cambiar de rama
 5: git add (podemos usar . o el nombre del archivo a subir. 
 6: git status para ver las actualizaciones. 
    una vez hecho esto te va  salir las actualizaciones en color verde.
-7: git commit -m "" : dentro de ls comillas se hará el comentario sobre el archivo.
+7: git commit -m "" : dentro de las comillas se hará el comentario sobre el archivo.
+8: git status: una vez hecho esto nos aparecerá que los cambios han sido guardados y que esta listo para haces push 
+git push: solo usamos este comando y nuestros archivos los podremos ver en la web de git hub.
 
 
 
