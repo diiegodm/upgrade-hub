@@ -12,3 +12,5 @@ creación de nuevas ramas:
 7: hace git push.
 8: nos va  a salir un error donde nos dice que la rama que hemos creado no esta en linea, para eso la consola nos devuelve un comando: git push --set-upstream origin (nombre de la rama creada)
 9: ejecutamos el comando que nos devuelve la consola y listo, nuestro repositorio ya esta en linea.
+
+
